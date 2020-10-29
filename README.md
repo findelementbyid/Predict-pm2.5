@@ -8,7 +8,7 @@ This project is the 4th homework of this course.
 
 The topic of this project is to handle the series data.:
 
-## Requirements：
+## Requirements
 
 請使用10和11月資料當作訓練集，12月之資料當作測試集，
 
