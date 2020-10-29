@@ -6,7 +6,7 @@ Course: Data Mining Research & Practice (NCTU)
 
 This project is the 4th homework of this course.
 
-The topic of this project is to handle the series data.:
+The topic of this project is to handle the series data.
 
 ## Requirements
 
