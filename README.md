@@ -6,9 +6,9 @@ Course: Data Mining Research & Practice (NCTU)
 
 This project is the 4th homework of this course.
 
-The topic of this project is to handle the series data, following the reqirements below:
+The topic of this project is to handle the series data.:
 
-作業要求：
+## Requirements：
 
 請使用10和11月資料當作訓練集，12月之資料當作測試集，
 
